@@ -5,7 +5,7 @@
 <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Loka || - Digital Products Store ECommerce</title>
+        <title>Loka || Digital Products Store ECommerce</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -212,23 +212,18 @@
                                         <!-- Begin Header Mini Cart Area -->
                                         <li class="hm-minicart">
                                             <div class="hm-minicart-trigger">
-                                                <span class="item-icon"></span>
-                                                <!-- <span class="item-text">
-                                                    <span class="cart-item-count">0</span>
-                                                </span> -->
+                                                <!-- <span class="item-icon"></span> -->
+                                                <span class="item-text">Login</span>
                                             </div>
                                             <span></span>
                                             <div class="minicart">
-                                                <ul class="minicart-product-list">
-                                                    
-                                                </ul>
                                                 <p class="minicart-total">My Account <span></span></p>
                                                 <div class="minicart-button">
-                                                    <a href="checkout.html" class="li-button li-button-dark li-button-fullwidth li-button-sm">
+                                                    <a href="<?php echo base_url();?>login" class="li-button li-button-dark li-button-fullwidth li-button-sm">
                                                         <span>Login</span>
                                                     </a>
-                                                    <a href="checkout.html" class="li-button li-button-fullwidth li-button-sm">
-                                                        <span>Logout</span>
+                                                    <a href="<?php echo base_url();?>Register" class="li-button li-button-dark li-button-fullwidth li-button-sm">
+                                                        <span>Register</span>
                                                     </a>
                                                 </div>
                                             </div>
@@ -309,13 +304,9 @@
                                                <ul class="megamenu hb-megamenu">
                                                    <li><a href="#">Laptop & PC</a>
                                                        <ul>
-                                                           <li><a href="#">Blog 2 Column</a></li>
-                                                           <li><a href="#">Blog 3 Column</a></li>
-                                                           <li><a href="#">Grid Left Sidebar</a></li>
-                                                           <li><a href="#">Grid Right Sidebar</a></li>
-                                                           <li><a href="#">Blog List</a></li>
-                                                           <li><a href="#">List Left Sidebar</a></li>
-                                                           <li><a href="#">List Right Sidebar</a></li>
+                                                           <li><a href="#">Laptop</a></li>
+                                                           <li><a href="#">PC</a></li>
+                                                           <li><a href="#">Sparepart IT</a></li>
                                                        </ul>
                                                    </li>
                                                    <li><a href="#">Peralatan Jaringan</a>
@@ -367,8 +358,8 @@
                                         <li><a href="<?php echo base_url();?>portofolio">Portofolio</a></li>
                                         <li><a href="<?php echo base_url();?>contact">Contact</a></li>
                                         <li><a href="<?php echo base_url();?>news">News</a></li>
-                                        <li class="megamenu-holder"><a href="<?php echo base_url();?>login">Login</a>
-                                               <!-- <ul class="megamenu hb-megamenu">
+                                        <!-- <li class="megamenu-holder"><a href="<?php echo base_url();?>login">Login</a>
+                                               <ul class="megamenu hb-megamenu">
                                                    <li><a href="#">Login Account</a>
                                                        <ul>
                                                            <li><a href="#">My Account</a></li>
@@ -378,8 +369,8 @@
                                                            <li><a href="#">Shopping Cart</a></li>
                                                        </ul>
                                                    </li>
-                                               </ul> -->
-                                           </li>
+                                               </ul>
+                                           </li> -->
                                        </ul>
                                    </nav>
                                </div>

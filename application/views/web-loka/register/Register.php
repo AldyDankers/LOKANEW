@@ -14,7 +14,7 @@
                             <!-- Login Form s-->
                             <form action="#" >
                                 <div class="login-form">
-                                    <h4 class="login-title">Login</h4>
+                                    <h4 class="login-title">Register</h4>
                                     <div class="row">
                                         <div class="col-md-12 col-12 mb-20">
                                             <label>Email Address*</label>
@@ -35,7 +35,7 @@
                                             <a href="#"> Forgot password?</a>
                                         </div>
                                         <div class="col-md-12">
-                                            <button class="register-button mt-0">Login</button>
+                                            <button class="register-button mt-0">Register</button>
                                         </div>
                                     </div><br>	
                                     <!-- Register buttons -->
