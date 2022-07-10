@@ -40,11 +40,11 @@
                                     </div><br>	
                                     <!-- Register buttons -->
 								  <div class="footer-block">
-								    <p>Not a member? <a href="#!">Register</a></p>
-								    <p>or sign up with:</p>
+								    <p>Not a member? <a href="<?php echo base_url();?>register">Register</a></p>
+								    <!-- <p>or sign up with:</p> -->
 								    <!-- <div class="col-lg-12"> -->
                                     <!-- <div class="footer-block"> -->
-                                        <ul class="social-link">
+                                        <!-- <ul class="social-link">
                                             <li class="twitter">
                                                 <a href="https://twitter.com/" data-toggle="tooltip" target="_blank" title="Twitter">
                                                     <i class="fa fa-twitter"></i>
@@ -65,7 +65,7 @@
                                                     <i class="fa fa-instagram"></i>
                                                 </a>
                                             </li>
-                                        </ul><br>
+                                        </ul><br> -->
                                     <!-- </div> -->
                                 </div>
 								  </div>

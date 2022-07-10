@@ -24,8 +24,11 @@
                                             <label>Password</label>
                                             <input class="mb-0" type="password" placeholder="Password">
                                         </div>
-                                        <div class="col-md-8
-                                        ">
+                                        <div class="col-12 mb-20">
+                                            <label>Confirm Password</label>
+                                            <input class="mb-0" type="password" placeholder="Password">
+                                        </div>
+                                        <!-- <div class="col-md-8">
                                             <div class="check-box d-inline-block ml-0 ml-md-2 mt-10">
                                                 <input type="checkbox" id="remember_me">
                                                 <label for="remember_me">Remember me</label>
@@ -33,14 +36,14 @@
                                         </div>
                                         <div class="col-md-4 mt-10 mb-20 text-left text-md-right">
                                             <a href="#"> Forgot password?</a>
-                                        </div>
+                                        </div> -->
                                         <div class="col-md-12">
                                             <button class="register-button mt-0">Register</button>
                                         </div>
                                     </div><br>	
                                     <!-- Register buttons -->
 								  <div class="footer-block">
-								    <p>Not a member? <a href="#!">Register</a></p>
+								    <!-- <p>Not a member? <a href="#!">Register</a></p> -->
 								    <p>or sign up with:</p>
 								    <!-- <div class="col-lg-12"> -->
                                     <!-- <div class="footer-block"> -->

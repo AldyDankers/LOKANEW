@@ -293,13 +293,13 @@
                                                 <i class="fa fa-user"></i>
                                             </div>
                                             <div>
-                                            <h3>Crude Palm Oil</h3>
+                                            <h3>Distribution</h3>
 
                                                 <p class="text-justify">Minyak nabati yang didapatkan dari mesocarp Buah
                                                 pohon kelapa sawit dengan kandungan alfa dan beta
                                                 karotenoid yang tinggi. Sebagai bahan baku utama
                                                 pabrik refinery & Biodiesel PT JAR.</p>
-                                                <a class="read-more" href="blog-details-left-sidebar.html">Read More...</a>
+                                                <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Distribution">Read More...</a>
                                             </div>
                                         </div>
                                     </div>
@@ -315,13 +315,13 @@
                                                 <i class="fa fa-user"></i>
                                             </div>
                                             <div>
-                                            <h3>Crude Palm Oil</h3>
+                                            <h3>System Integrated</h3>
 
                                                 <p class="text-justify">Minyak nabati yang didapatkan dari mesocarp Buah
                                                 pohon kelapa sawit dengan kandungan alfa dan beta
                                                 karotenoid yang tinggi. Sebagai bahan baku utama
                                                 pabrik refinery & Biodiesel PT JAR.</p>
-                                                <a class="read-more" href="blog-details-left-sidebar.html">Read More...</a>
+                                                <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Read More...</a>
                                             </div>
                                         </div>
                                     </div>
@@ -337,13 +337,13 @@
                                                 <i class="fa fa-user"></i>
                                             </div>
                                             <div>
-                                            <h3>Crude Palm Oil</h3>
+                                            <h3>Service</h3>
 
                                                 <p class="text-justify">Minyak nabati yang didapatkan dari mesocarp Buah
                                                 pohon kelapa sawit dengan kandungan alfa dan beta
                                                 karotenoid yang tinggi. Sebagai bahan baku utama
                                                 pabrik refinery & Biodiesel PT JAR.</p>
-                                                <a class="read-more" href="blog-details-left-sidebar.html">Read More...</a>
+                                                <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Service">Read More...</a>
                                             </div>
                                         </div>
                                     </div>

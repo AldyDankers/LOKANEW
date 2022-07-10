@@ -51,7 +51,7 @@
   <!-- Favicons -->
   <link href="https://ptjar.co.id/assets/file/frontend/image/template/iconjar.png" rel="icon">
   <!-- <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/img/favicon.png" rel="icon"> -->
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <!-- <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
