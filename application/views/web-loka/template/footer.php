@@ -369,17 +369,28 @@
         <script src="<?php echo base_url('/asset/web-loka/');?>js/scrollUp.min.js"></script>
         <!-- Main/Activator js -->
         <script src="<?php echo base_url('/asset/web-loka/');?>js/main.js"></script>
-        
-        <!-- Vendor JS Files -->
-<script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/aos/aos.js"></script>
-<script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/glightbox/js/glightbox.min.js"></script>
-<script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-<script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/php-email-form/validate.js"></script>
 
-<!-- Template Main JS File -->
-<script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/js/main.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/vendor/aos/aos.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/vendor/swiper/swiper-bundle.min.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/vendor/waypoints/noframework.waypoints.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/vendor/php-email-form/validate.js"></script>
+
+        <!-- Template Main JS File -->
+        <script src="<?php echo base_url('/asset/web-loka/');?>assets/js/main.js"></script>
+                
+                <!-- Vendor JS Files -->
+        <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/aos/aos.js"></script>
+        <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+        <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/swiper/swiper-bundle.min.js"></script>
+        <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/php-email-form/validate.js"></script>
+
+        <!-- Template Main JS File -->
+        <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/js/main.js"></script>
        
     </body>
 

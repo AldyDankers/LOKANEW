@@ -41,45 +41,27 @@
         <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>style.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>css/responsive.css">
-        <!-- Modernizr js -->
-        <script src="<?php echo base_url('/asset/web-loka/');?>js/vendor/modernizr-2.8.3.min.js"></script>
+        <!-- Vendor CSS Files -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/aos/aos.css" rel="stylesheet">
+        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/remixicon/remixicon.css" rel="stylesheet">
 
-        <!-- Jhonlin CSS -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-
-  <!-- Favicons -->
-  <link href="https://ptjar.co.id/assets/file/frontend/image/template/iconjar.png" rel="icon">
-  <!-- <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/img/favicon.png" rel="icon"> -->
-  <!-- <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
-
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="https://ptjar.co.id/assets/NiceAdmin/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-
-  <!-- Variables CSS Files. Uncomment your preferred color scheme -->
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/css/variables.css" rel="stylesheet">
-  <!-- <link href="assets/css/variables-blue.css" rel="stylesheet"> -->
-  <!-- <link href="assets/css/variables-green.css" rel="stylesheet"> -->
-  <!-- <link href="assets/css/variables-orange.css" rel="stylesheet"> -->
-  <!-- <link href="assets/css/variables-purple.css" rel="stylesheet"> -->
-  <!-- <link href="assets/css/variables-red.css" rel="stylesheet"> -->
-  <!-- <link href="assets/css/variables-pink.css" rel="stylesheet"> -->
-
-  <!-- Template Main CSS File -->
-  <link href="https://ptjar.co.id/assets/HeroBiz-pro/assets/css/main.css" rel="stylesheet">
+        <!-- Variables CSS Files. Uncomment your preferred color scheme -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>css/variables.css" rel="stylesheet">
         
-    </head>
-    <body>
+        <!-- Template Main CSS File -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>css/main.css" rel="stylesheet">
+
+        <!-- Template Main CSS File -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>assets/css/style.css" rel="stylesheet">
+        <!-- Modernizr js -->
+        <script src="<?php echo base_url('/asset/web-loka/');?>js/vendor/modernizr-2.8.3.min.js"></script>     
+</head>
+    
+<body>
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
@@ -370,29 +352,41 @@
                                                            <li><a href="#">404 Error</a></li>
                                                        </ul>
                                                    </li>
-                                                   <li><a href="#">Website & Mobile App</a></li>
+                                                   <li><a href="#">Website & Mobile App</a>
+                                                        <ul>
+                                                           <li><a href="#">Contact</a></li>
+                                                           <li><a href="#">About Us</a></li>
+                                                           <li><a href="#">FAQ</a></li>
+                                                           <li><a href="#">404 Error</a></li>
+                                                       </ul>
+                                                    </li>
                                                </ul>
                                            </li>
-                                        <li class="dropdown-holder"><a href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Sistem Integrated</a>
-                                               <ul class="hb-dropdown">
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/Data_Center">Data Center</a></li>
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/Sistem_Integrated_Isi">Sistem Integrated</a></li>
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/SAP">SAP</a></li>
-                                               </ul>
-                                        </li>
-                                        
-                                           
-                                        <li class="dropdown-holder"><a href="<?php echo base_url();?>service">Service</a>
-                                               <ul class="hb-dropdown">
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_consulting">IT Consulting</a></li>
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_design">IT Design</a></li>
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_implementation">IT Implementation</a></li>
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/training">Training</a></li>
-                                               </ul>
-                                        </li>
-                                        <li><a href="<?php echo base_url();?>portofolio">Portofolio</a></li>
-                                        <li><a href="<?php echo base_url();?>contact">Contact</a></li>
-                                        <li><a href="<?php echo base_url();?>news">News</a></li>
+                                           <li class="dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated">Sistem Integrated</a>
+                                                <ul class="hb-dropdown">
+                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/Data_Center">Data Center</a>
+                                                </li>
+                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/Sistem_Integrated_Isi">Sistem Integrated</a>
+                                                </li>
+                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/SAP">SAP</a>
+                                                </li>
+                                                </ul>
+                                            </li>                                   
+                                            <li class="dropdown-holder"><a href="<?php echo base_url();?>Service">Service</a>
+                                                <ul class="hb-dropdown">
+                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_consulting">IT Consulting</a>
+                                                </li>
+                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_design">IT Design</a>
+                                                </li>
+                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_implementation">IT Implementation</a>
+                                                </li>
+                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/training">Training</a>
+                                                </li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="<?php echo base_url();?>portofolio">Portofolio</a></li>
+                                            <li><a href="<?php echo base_url();?>contact">Contact</a></li>
+                                            <li><a href="<?php echo base_url();?>news">News</a></li>
                                         <!-- <li class="megamenu-holder"><a href="<?php echo base_url();?>login">Login</a>
                                                <ul class="megamenu hb-megamenu">
                                                    <li><a href="#">Login Account</a>
@@ -414,16 +408,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- Header Bottom Area End Here -->
-                <!-- Begin Mobile Menu Area -->
-                <div class="mobile-menu-area mobile-menu-area-4 d-lg-none d-xl-none col-12">
-                    <div class="container"> 
-                        <div class="row">
-                            <div class="mobile-menu">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Mobile Menu Area End Here -->
+                
             </header>
             <!-- Header Area End Here -->

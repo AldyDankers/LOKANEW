@@ -1,4 +1,4 @@
-            <div class="mb-20">
+            <!-- <div class="mb-20"> -->
             <!-- Begin Slider With Banner Area -->
             <div class="slider-with-banner">
                 <div class="container">
@@ -57,7 +57,7 @@
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="li-banner mt-15 mt-md-30 mt-xs-25 mb-xs-5">
+                            <div class="li-banner mt-30 mt-md-30 mt-xs-25 mb-xs-5">
                                 <a href="#">
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_2.jpg" alt="">
                                 </a>
@@ -108,10 +108,10 @@
             
             
             <!-- Static Top Area End Here -->
-            <div class="li-static-banner mt-30 pt-20 pt-sm-30 text-center">
+            <div class="li-static-banner mt-50 pt-20 pt-sm-30 text-center">
                 <div class="container">
-                    <div class="row">
-                    
+                    <div class="row align-items-center justify-content-between">
+                        
                         <!-- Begin Single Banner Area -->
                         <div class="col-lg-1 col-md-1 text-center">
                             <div class="single-banner pb-xs-30">
@@ -208,26 +208,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
-                            </div>
-                        </div>
+                        
                         <!-- Single Banner Area End Here -->
                       
                     </div>
@@ -357,4 +338,4 @@
 
       </div>
   </section>        
-</div>
+<!-- </div> -->
