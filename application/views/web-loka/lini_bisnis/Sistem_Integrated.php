@@ -1,5 +1,14 @@
-<div class="about-us-wrapper pt-60 pb-40">
-                <div class="container">
+<section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Sistem Integrated</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+        </div>
+
+        <div class="about-us-wrapper">
+                <div class="container"data-aos="fade-up">
                     <div class="row">
                         <!-- About Text Start -->
                         <div class="col-lg-6 order-last order-lg-first">
@@ -21,7 +30,7 @@
                     </div>
                 </div>
             </div>
-
+</section>
 <!-- ======= Featured Services Section ======= -->
 <section id="featured-services" class="featured-services">
     <div class="container">
