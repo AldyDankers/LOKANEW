@@ -1,4 +1,4 @@
-            <!-- <div class="mb-20"> -->
+            <div class="mb-20">
             <!-- Begin Slider With Banner Area -->
             <div class="slider-with-banner">
                 <div class="container">
@@ -57,7 +57,7 @@
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="li-banner mt-30 mt-md-30 mt-xs-25 mb-xs-5">
+                            <div class="li-banner mt-15 mt-md-30 mt-xs-25 mb-xs-5">
                                 <a href="#">
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_2.jpg" alt="">
                                 </a>
@@ -67,43 +67,6 @@
                     </div>
                 </div>
             </div>
-            <!-- Slider With Banner Area End Here -->
-            <!-- Begin Static Top Area -->
-            <!-- <div class="static-top-wrap">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="static-top-content">
-                                Gift Special
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-            <!-- <div class="static-top-wrap">
-            <div class="container">
-                                    <ul class="hm-menu">
-                                         Begin Header Middle Wishlist Area -->
-                                        <!-- <li class="hm-wishlist">
-                                            <a href="wishlist.html">
-                                                <span class="cart-item-count wishlist-item-count"></span>
-                                                <i class="fa fa-user-o"></i>
-                                            </a>
-                                        </li> -->
-                                        <!-- Header Middle Wishlist Area End Here -->
-                                        <!-- Begin Header Mini Cart Area -->
-                                        <!-- <li class="hm-minicart">
-                                             <div class="hm-minicart-trigger"> -->
-                                                <!-- <span class="item-icon"></span>
-                                                <span class="item-text">LOGIN</span> -->
-                                            <!-- </div> -->
-                                            <!-- <span></span>                                             -->
-                                        <!-- </li> -->
-                                        <!-- Header Mini Cart Area End Here -->
-                                    <!-- </ul>
-                                </div>
-            </div> -->
 
             
             
@@ -112,7 +75,6 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-between">
                         
-                        <!-- Begin Single Banner Area -->
                         <div class="col-lg-1 col-md-1 text-center">
                             <div class="single-banner pb-xs-30">
                                 <ul class="hm-menu">
@@ -208,8 +170,6 @@
                                 </ul>
                             </div>
                         </div>
-                        
-                        <!-- Single Banner Area End Here -->
                       
                     </div>
                 </div>
@@ -223,49 +183,21 @@
             <div class="section-header text-center mt-10 mb-10">
                 <h2>Layanan Kami</h2>
             </div>
-
-            <div class="li-static-banner pt-20 pt-sm-30">
+            
+            <div class="li-main-blog-page">
                 <div class="container">
                     <div class="row">
-                        <!-- Begin Single Banner Area -->
-                        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="single-banner pb-xs-30">
-                                <a href="#">
-                                    <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- Single Banner Area End Here -->
-                        <!-- Begin Single Banner Area -->
-                        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="single-banner pb-xs-30">
-                            <a href="#">
-                                    <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- Single Banner Area End Here -->
-                        <!-- Begin Single Banner Area -->
-                        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="single-banner">
-                            <a href="#">
-                                    <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- Single Banner Area End Here -->
-                    </div>
-                </div>
-            </div>
-            <!-- Li's Static Banner Area End Here -->
-            <div class="li-main-blog-page pt-60 pb-55">
-                <div class="container">
-                    <div class="row">
-                        <!-- Begin Li's Main Content Area -->
+                        
                         <div class="col-lg-12">
                             <div class="row li-main-content">
                                 <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                                     <div class="service-item">
+                                        <div class="single-banner pb-xs-30">
+                                            <a href="#">
+                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
+                                            </a>
+                                        </div><br><br>
+
                                         <div class="img">
                                             <a href="blog-details-left-sidebar.html"><img class="img-full" src="images/blog-banner/2.jpg" alt=""></a>
                                         </div>
@@ -284,10 +216,17 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div><br><br>
 
+                                
                                 <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                                     <div class="service-item">
+                                        <div class="single-banner pb-xs-30">
+                                            <a href="#">
+                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
+                                            </a>
+                                        </div><br><br>
+
                                         <div class="img">
                                             <a href="blog-details-left-sidebar.html"><img class="img-full" src="images/blog-banner/2.jpg" alt=""></a>
                                         </div>
@@ -306,10 +245,17 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div><br><br>
+
 
                                 <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                                     <div class="service-item">
+                                        <div class="single-banner pb-xs-30">
+                                            <a href="#">
+                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
+                                            </a>
+                                        </div><br><br>
+
                                         <div class="img">
                                             <a href="blog-details-left-sidebar.html"><img class="img-full" src="images/blog-banner/2.jpg" alt=""></a>
                                         </div>
