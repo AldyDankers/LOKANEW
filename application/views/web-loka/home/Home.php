@@ -220,11 +220,11 @@
   <section id="services" class="services">
     <div class="container" data-aos="fade-up">
 
-            <div class="section-header text-center mt-10 mb-10">
-                <h2>Layanan Kami</h2>
+            <div class="section-header text-center">
+                <h3>Layanan Kami</h3>
             </div>
 
-            <div class="li-static-banner pt-20 pt-sm-30">
+            <div class="li-static-banner">
                 <div class="container">
                     <div class="row">
                         <!-- Begin Single Banner Area -->

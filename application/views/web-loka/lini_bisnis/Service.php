@@ -7,7 +7,7 @@
         </div>
         </div>
 
-<div class="col-lg-9 order-lg-2 order-1">
+        <div class="col-lg-9 order-lg-2 order-1">
                             <div class="row li-main-content">
                                 <div class="col-lg-12">
                                     <div class="li-blog-single-item pb-30">
