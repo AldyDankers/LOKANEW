@@ -42,7 +42,7 @@
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>css/responsive.css">
         <!-- Vendor CSS Files -->
-        <!-- <link href="<?php echo base_url('/asset/web-loka/');?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <!-- <link href="<?php echo base_url('/asset/web-loka/');?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
         <link href="<?php echo base_url('/asset/web-loka/');?>vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
         <link href="<?php echo base_url('/asset/web-loka/');?>vendor/aos/aos.css" rel="stylesheet">
         <link href="<?php echo base_url('/asset/web-loka/');?>vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
@@ -216,7 +216,7 @@
                                 <!-- Header Middle Searchbox Area End Here -->
                                 <!-- Begin Header Middle Right Area -->
                                 <div class="header-middle-right">
-                                    <ul class="hm-menu">
+                                    <ul class="hm">
                                         <li class="hm-minicart">
                                             <div class="hm-minicart-trigger">
                                                 <!-- <span class="item-icon"></span> -->
@@ -236,6 +236,7 @@
                                                 </div>
                                             </div>
                                         </li>
+                                        
                                         <!-- Header Mini Cart Area End Here -->
                                     </ul>
                                 </div>
@@ -250,7 +251,7 @@
                 <div class="header-bottom header-sticky d-none d-lg-block d-xl-block">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-12">
+                            <div class="col-lg-12 ml-40">
                                <!-- Begin Header Bottom Menu Area -->
                                <div class="hb-menu">
                                    <nav>
@@ -308,7 +309,7 @@
                                                    
                                                </ul>
                                            </li>
-                                           <li class="megamenu-static-holder"><a href="<?php echo base_url();?>Product_Distribusi">Product Distribusi</a>
+                                           <li class="megamenu-static-holder"><a>Product Distribusi</a>
                                                <ul class="megamenu hb-megamenu">
                                                    <li><a href="#">Laptop & PC</a>
                                                        <ul>
@@ -353,7 +354,7 @@
                                                     </li>
                                                </ul>
                                            </li>
-                                           <li class="dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated">Sistem Integrated</a>
+                                           <li class="dropdown-holder"><a>Sistem Integrated</a>
                                                 <ul class="hb-dropdown">
                                                     <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/Data_Center">Data Center</a>
                                                 </li>
@@ -363,7 +364,7 @@
                                                 </li>
                                                 </ul>
                                             </li>                                   
-                                            <li class="dropdown-holder"><a href="<?php echo base_url();?>Service">Service</a>
+                                            <li class="dropdown-holder"><a>Service</a>
                                                 <ul class="hb-dropdown">
                                                     <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_consulting">IT Consulting</a>
                                                 </li>

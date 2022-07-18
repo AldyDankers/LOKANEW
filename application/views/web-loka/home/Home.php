@@ -1,4 +1,4 @@
-            <div class="mb-20">
+            <!-- <div class="mb-20"> -->
             <!-- Begin Slider With Banner Area -->
             <div class="slider-with-banner">
                 <div class="container">
@@ -66,15 +66,12 @@
                         <!-- Li Banner Area End Here -->
                     </div>
                 </div>
-            </div>
-
-            
+            </div>            
             
             <!-- Static Top Area End Here -->
             <div class="li-static-banner mt-50 pt-20 pt-sm-30 text-center">
                 <div class="container">
-                    <div class="row align-items-center justify-content-between">
-                        
+                    <div class="row align-items-center justify-content-between">                      
                         <div class="col-lg-1 col-md-1 text-center">
                             <div class="single-banner pb-xs-30">
                                 <ul class="hm-menu">
@@ -180,8 +177,8 @@
   <section id="services" class="services">
     <div class="container" data-aos="fade-up">
 
-            <div class="section-header text-center mt-10 mb-10">
-                <h2>Layanan Kami</h2>
+            <div class="section-header text-center">
+                <h3>Layanan Kami</h3>
             </div>
             
             <div class="li-main-blog-page">

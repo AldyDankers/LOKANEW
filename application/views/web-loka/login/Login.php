@@ -24,23 +24,27 @@
                                             <label>Password</label>
                                             <input class="mb-0" type="password" placeholder="Password">
                                         </div>
-                                        <div class="col-md-8
-                                        ">
+                                        <div class="col-md-8">
                                             <div class="check-box d-inline-block ml-0 ml-md-2 mt-10">
                                                 <input type="checkbox" id="remember_me">
                                                 <label for="remember_me">Remember me</label>
                                             </div>
                                         </div>
-                                        <div class="col-md-4 mt-10 mb-20 text-left text-md-right">
+                                        <div class="col-md-4 mt-10 mb-20 text-md-right">
                                             <a href="#"> Forgot password?</a>
                                         </div>
-                                        <div class="col-md-12">
+                                        <div class="col-md-12 ml-110">
                                             <button class="register-button mt-0">Login</button>
-                                        </div>
+                                        </div> 
                                     </div><br>	
-                                    <!-- Register buttons -->
-								  <div class="footer-block">
-								    <p>Not a member? <a href="<?php echo base_url();?>register">Register</a></p>
+                                    <!-- Register buttons -->        
+								  <div class="footer-block text-center">                                                                                                   
+                                    <div class=" text-center">                            
+                                        <p>Not a member? 
+                                            <a href="<?php echo base_url();?>register">Register</a>
+                                        </p>
+                                    </div>
+                                    
 								    <!-- <p>or sign up with:</p> -->
 								    <!-- <div class="col-lg-12"> -->
                                     <!-- <div class="footer-block"> -->
