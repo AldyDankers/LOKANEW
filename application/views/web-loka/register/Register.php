@@ -37,14 +37,14 @@
                                         <div class="col-md-4 mt-10 mb-20 text-left text-md-right">
                                             <a href="#"> Forgot password?</a>
                                         </div> -->
-                                        <div class="col-md-12">
+                                        <div class="col-md-12 ml-90">
                                             <button class="register-button mt-0">Register</button>
                                         </div>
                                     </div><br>	
                                     <!-- Register buttons -->
-								  <div class="footer-block">
+								  <div class="footer-block ml-60">
 								    <!-- <p>Not a member? <a href="#!">Register</a></p> -->
-								    <p>or sign up with:</p>
+								    <p class="ml-60">or sign up with:</p>
 								    <!-- <div class="col-lg-12"> -->
                                     <!-- <div class="footer-block"> -->
                                         <ul class="social-link">

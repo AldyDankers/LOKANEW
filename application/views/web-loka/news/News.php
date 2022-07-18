@@ -1,3 +1,12 @@
+<section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>News</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+        </div>
+
 <div class="li-main-blog-page pt-60 pb-55">
                 <div class="container">
                     <div class="row">
@@ -185,3 +194,4 @@
                     </div>
                 </div>
             </div>
+</section>
