@@ -248,7 +248,7 @@
                 </div>
                 <!-- Header Middle Area End Here -->
                 <!-- Begin Header Bottom Area -->
-                <div class="header-bottom header-sticky d-none d-lg-block d-xl-block">
+                <div class="header-bottom header-sticky d-none d-lg-block d-xl-block mb-0">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12 ml-40">
@@ -300,79 +300,62 @@
                                            </li>
                                            <li class="dropdown-holder"><a href="<?php echo base_url();?>Lini_Bisnis">Lini Bisnis</a>
                                                <ul class="hb-dropdown">
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Lini_Bisnis/Distribution">Distribution</a>
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Distribution">Distribution</a>
                                                    </li>
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Sistem Integrated</a>
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Sistem Integrated</a>
                                                    </li>
-                                                   <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Lini_Bisnis/Service">Service</a>
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Service">Service</a>
                                                    </li>
                                                    
                                                </ul>
                                            </li>
-                                           <li class="megamenu-static-holder"><a>Product Distribusi</a>
-                                               <ul class="megamenu hb-megamenu">
-                                                   <li><a href="#">Laptop & PC</a>
-                                                       <ul>
-                                                           <li><a href="#">Laptop</a></li>
-                                                           <li><a href="#">PC</a></li>
-                                                           <li><a href="#">Sparepart IT</a></li>
-                                                       </ul>
+                                           <!-- <li class="dropdown-holder"><a>Product Distribusi</a>
+                                               <ul class="hb-dropdown">
+                                                   <li><a href="#">Laptop & PC</a>                                                       
                                                    </li>
-                                                   <li><a href="#">Peralatan Jaringan</a>
-                                                       <ul>
-                                                           <li><a href="#">Left Sidebar</a></li>
-                                                           <li><a href="#">Right Sidebar</a></li>
-                                                           <li><a href="#">Blog Audio Format</a></li>
-                                                           <li><a href="#">Blog Video Format</a></li>
-                                                           <li><a href="#">Blog Gallery Format</a></li>
-                                                       </ul>
+                                                   <li><a href="#">Peralatan Jaringan</a>                                                       
                                                    </li>
-                                                   <li><a href="#">CCTV & Security System</a>
-                                                       <ul>
-                                                           <li><a href="#">My Account</a></li>
-                                                           <li><a href="#">Checkout</a></li>
-                                                           <li><a href="#">Compare</a></li>
-                                                           <li><a href="#">Wishlist</a></li>
-                                                           <li><a href="#">Shopping Cart</a></li>
-                                                       </ul>
+                                                   <li><a href="#">CCTV & Security System</a>                                                       
                                                    </li>
-                                                   <li><a href="#">Server & Storage</a>
-                                                       <ul>
-                                                           <li><a href="#">Contact</a></li>
-                                                           <li><a href="#">About Us</a></li>
-                                                           <li><a href="#">FAQ</a></li>
-                                                           <li><a href="#">404 Error</a></li>
-                                                       </ul>
+                                                   <li><a href="#">Server & Storage</a>                                                       
                                                    </li>
-                                                   <li><a href="#">Website & Mobile App</a>
-                                                        <ul>
-                                                           <li><a href="#">Contact</a></li>
-                                                           <li><a href="#">About Us</a></li>
-                                                           <li><a href="#">FAQ</a></li>
-                                                           <li><a href="#">404 Error</a></li>
-                                                       </ul>
+                                                   <li><a href="#">Website & Mobile App</a>                                                        
                                                     </li>
                                                </ul>
+                                           </li> -->
+                                           <li class="dropdown-holder"><a href="#">Product Distribusi</a>
+                                               <ul class="hb-dropdown">
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Distribution">Laptop & PC</a>
+                                                   </li>
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Peralatan Jaringan</a>
+                                                   </li>
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Service">CCTV & Security System</a>
+                                                   </li>
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Server & Storage</a>
+                                                   </li>
+                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Service">Website & Mobile App</a>
+                                                   </li>
+                                               </ul>
                                            </li>
-                                           <li class="dropdown-holder"><a>Sistem Integrated</a>
+                                           <li class="dropdown-holder"><a class="ml-30">Sistem Integrated</a>
                                                 <ul class="hb-dropdown">
-                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/Data_Center">Data Center</a>
+                                                    <li><a href="<?php echo base_url();?>Sistem_Integrated/Data_Center">Data Center</a>
                                                 </li>
-                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/Sistem_Integrated_Isi">Sistem Integrated</a>
+                                                    <li><a href="<?php echo base_url();?>Sistem_Integrated/Sistem_Integrated_Isi">Sistem Integrated</a>
                                                 </li>
-                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>Sistem_Integrated/SAP">SAP</a>
+                                                    <li><a href="<?php echo base_url();?>Sistem_Integrated/SAP">SAP</a>
                                                 </li>
                                                 </ul>
                                             </li>                                   
                                             <li class="dropdown-holder"><a>Service</a>
                                                 <ul class="hb-dropdown">
-                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_consulting">IT Consulting</a>
+                                                    <li><a href="<?php echo base_url();?>service/it_consulting">IT Consulting</a>
                                                 </li>
-                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_design">IT Design</a>
+                                                    <li><a href="<?php echo base_url();?>service/it_design">IT Design</a>
                                                 </li>
-                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/it_implementation">IT Implementation</a>
+                                                    <li><a href="<?php echo base_url();?>service/it_implementation">IT Implementation</a>
                                                 </li>
-                                                    <li class="sub-dropdown-holder"><a href="<?php echo base_url();?>service/training">Training</a>
+                                                    <li><a href="<?php echo base_url();?>service/training">Training</a>
                                                 </li>
                                                 </ul>
                                             </li>

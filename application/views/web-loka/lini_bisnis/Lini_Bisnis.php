@@ -1,12 +1,10 @@
-<section id="portfolio" class="portfolio">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Lini Bisnis</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-        </div>
-<div class="about-us-wrapper">
+<section id="featured-services" class="featured-services">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title">
+      <h2>Lini Bisnis</h2>          
+    </div>
+  </div>
+  <div class="about-us-wrapper">
                 <div class="container"data-aos="fade-up">
                     <div class="row">
                         <!-- About Text Start -->
@@ -28,11 +26,11 @@
                         <!-- About Image End -->
                     </div>
                 </div>
-            </div>
-</section>
+            <!-- </div>
+</section> -->
 
 <!-- ======= Featured Services Section ======= -->
-<section id="featured-services" class="featured-services">
+<!-- <section id="featured-services" class="featured-services"> -->
     <div class="container">
 
       <div class="row gy-4">
@@ -40,7 +38,7 @@
 
         <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
           <div class="service-item position-relative">
-            <div class="icon d-flex justify-content-center"><i class="bi bi-gear-wide-connected icon"></i></div>
+            <div class="icon d-flex justify-content-center"><i class="fa fa-ship"></i></div>
             <h4>Distribution</h4>
             <p class="text-justify">PT. Jhonlin Agro Raya selalu
               mengedapankan
@@ -48,12 +46,13 @@
               penelitian yang mendalam, untuk
               kesinambungan dan kwalitas
               produksi perusahaan.</p>
+              <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Distribution">Read More...</a>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
           <div class="service-item position-relative">
-            <div class="icon d-flex justify-content-center"><i class="ri-service-line"></i></div>
+            <div class="icon d-flex justify-content-center"><i class="fa fa-globe"></i></div>
             <h4>Sistem Integrated</h4>
             <p class="text-justify">Membangun hubungan yang
               kuat dan saling
@@ -61,12 +60,13 @@
               stake-holder, internal
               perusahaan dan lingkungan
               sosial-masyarakat</p>
+              <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Distribution">Read More...</a>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
           <div class="service-item position-relative">
-            <div class="icon d-flex justify-content-center"><i class="bi bi-graph-up-arrow icon"></i></div>
+            <div class="icon d-flex justify-content-center"><i class="fa fa-handshake-o"></i></div>
             <h4>Service</h4>
             <p class="text-justify">Menumbuhkan kepercayaan
               klien terhadap pelayanan dan
@@ -74,10 +74,12 @@
               menjadikan target
               perkembangan klien semakin
               meningkat dari tahun ke tahun.</p>
+              <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Distribution">Read More...</a>
           </div>
         </div><!-- End Service Item -->
 
       </div>
 
     </div>
+  </div>
   </section><!-- End Featured Services Section -->

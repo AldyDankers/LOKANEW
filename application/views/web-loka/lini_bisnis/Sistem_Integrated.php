@@ -1,83 +1,40 @@
-<section id="portfolio" class="portfolio">
+<!-- ======= Services Section ======= -->
+<section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Sistem Integrated</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <div class="section-title mb-0">
+          <h2>Sistem Integrated</h2>          
         </div>
-        </div>
-
-        <div class="about-us-wrapper">
-                <div class="container"data-aos="fade-up">
-                    <div class="row">
-                        <!-- About Text Start -->
-                        <div class="col-lg-6 order-last order-lg-first">
-                            <div class="about-text-wrap">
-                                <h2>Sistem Integrated</h2>
-                                <p>We provide the best Beard oile all over the world. We are the worldd best store in indi for Beard Oil. You can buy our product without any hegitation because they truste us and buy our product without any hagitation because they belive and always happy buy our product.</p>
-                                <p>Some of our customer say’s that they trust us and buy our product without any hagitation because they belive us and always happy to buy our product.</p>
-                                <p>We provide the beshat they trusted us and buy our product without any hagitation because they belive us and always happy to buy.</p>
-                            </div>
-                        </div>
-                        <!-- About Text End -->
-                        <!-- About Image Start -->
-                        <div class="col-lg-5 col-md-10">
-                            <div class="about-image-wrap">
-                                <img class="img-full" src="<?php echo base_url('/asset/web-loka/');?>images/product/large-size/13.jpg" alt="About Us" />
-                            </div>
-                        </div>
-                        <!-- About Image End -->
-                    </div>
-                </div>
+        <p class="text-center mt-0">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch ml-150" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4><a href="">Data Center</a></h4>
+              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <a class="read-more" href="<?php echo base_url();?>Sistem_integrated/Data_Center">Read More...</a>
             </div>
-</section>
-<!-- ======= Featured Services Section ======= -->
-<section id="featured-services" class="featured-services">
-    <div class="container">
-
-      <div class="row gy-4">
-
-
-        <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
-          <div class="service-item position-relative">
-            <div class="icon d-flex justify-content-center"><i class="bi bi-gear-wide-connected icon"></i></div>
-            <h4>Data Center</h4>
-            <p class="text-justify">PT. Jhonlin Agro Raya selalu
-              mengedapankan
-              pengembangan berbasiskan
-              penelitian yang mendalam, untuk
-              kesinambungan dan kwalitas
-              produksi perusahaan.</p>
           </div>
-        </div><!-- End Service Item -->
 
-        <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
-          <div class="service-item position-relative">
-            <div class="icon d-flex justify-content-center"><i class="ri-service-line"></i></div>
-            <h4>Sistem Integrated</h4>
-            <p class="text-justify">Membangun hubungan yang
-              kuat dan saling
-              menguntungkan mulai dari
-              stake-holder, internal
-              perusahaan dan lingkungan
-              sosial-masyarakat</p>
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4><a href="">Sistem Integrated</a></h4>
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <a class="read-more" href="<?php echo base_url();?>Sistem_integrated/Sistem_Integrated">Read More...</a>
+            </div>
           </div>
-        </div><!-- End Service Item -->
 
-        <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
-          <div class="service-item position-relative">
-            <div class="icon d-flex justify-content-center"><i class="bi bi-graph-up-arrow icon"></i></div>
-            <h4>SAP</h4>
-            <p class="text-justify">Menumbuhkan kepercayaan
-              klien terhadap pelayanan dan
-              hasil produksi yang dihasilkan,
-              menjadikan target
-              perkembangan klien semakin
-              meningkat dari tahun ke tahun.</p>
-          </div>
-        </div><!-- End Service Item -->
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4><a href="">SAP</a></h4>
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <a class="read-more" href="<?php echo base_url();?>Sistem_integrated/SAP">Read More...</a>
+            </div>
+          </div>          
+
+        </div>
 
       </div>
-
-    </div>
-  </section><!-- End Featured Services Section -->
+    </section><!-- End Services Section -->
