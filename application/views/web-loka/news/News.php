@@ -1,14 +1,14 @@
 <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
+        <div class="section-title mb-0">
           <h2>News</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          
         </div>
-        </div>
+        
 
-<div class="li-main-blog-page pt-60 pb-55">
-                <div class="container">
+<div class="li-main-blog-page pt-60 pb-55 mt-0" >
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
                     <div class="row">
                         <!-- Begin Li's Main Content Area -->
                         <div class="col-lg-12">
@@ -193,5 +193,6 @@
                         <!-- Li's Main Content Area End Here -->
                     </div>
                 </div>
+            </div>
             </div>
 </section>

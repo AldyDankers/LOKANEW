@@ -200,7 +200,7 @@
                                         </div>
                                         <div class="details position-relative" style="height:350px">
                                             <div class="icon">
-                                                <i class="fa fa-user"></i>
+                                                <i class="fa fa-star"></i>
                                             </div>
                                             <div>
                                             <h3>Distribution</h3>
@@ -258,7 +258,7 @@
                                         </div>
                                         <div class="details position-relative" style="height:350px">
                                             <div class="icon">
-                                                <i class="fa fa-user"></i>
+                                                <i class="fa fa-ship"></i>
                                             </div>
                                             <div>
                                             <h3>Service</h3>
