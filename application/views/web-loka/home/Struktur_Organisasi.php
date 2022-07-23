@@ -2,8 +2,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Struktur Organisasi</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Struktur Organisasi</h2>          
         </div>
         </div>
 
@@ -18,8 +17,8 @@
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/team/1.png" alt="Our Team Member">
                                 </div>
                                 <div class="team-content text-center">
-                                    <h3>Jonathan Scott</h3>
-                                    <p>IT Expert</p>
+                                    <h3>Catur</h3>
+                                    <p>Director</p>
                                     <a href="#">info@example.com</a>
                                     <div class="team-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -36,8 +35,8 @@
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/team/2.png" alt="Our Team Member">
                                 </div>
                                 <div class="team-content text-center">
-                                    <h3>Oliver Bastin</h3>
-                                    <p>Web Designer</p>
+                                    <h3>Amel</h3>
+                                    <p>Finance</p>
                                     <a href="#">info@example.com</a>
                                     <div class="team-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -54,8 +53,8 @@
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/team/3.png" alt="Our Team Member">
                                 </div>
                                 <div class="team-content text-center">
-                                    <h3>Erik Jonson</h3>
-                                    <p>Web Developer</p>
+                                    <h3>Aldi</h3>
+                                    <p>Supervisor</p>
                                     <a href="#">info@example.com</a>
                                     <div class="team-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -72,7 +71,7 @@
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/team/4.png" alt="Our Team Member">
                                 </div>
                                 <div class="team-content text-center">
-                                    <h3>Maria Mandy</h3>
+                                    <h3>Lady</h3>
                                     <p>Marketing officer</p>
                                     <a href="#">info@example.com</a>
                                     <div class="team-social">

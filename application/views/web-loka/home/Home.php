@@ -4,19 +4,19 @@
                 <div class="container">
                     <div class="row">
                         <!-- Begin Slider Area -->
-                        <div class="col-lg-8 col-md-8">
+                        <div class="col-lg-8 col-md-8 mt-20">
                             <div class="slider-area pt-sm-30 pt-xs-30">
                                 <div class="slider-active owl-carousel">
                                     <!-- Begin Single Slide Area -->
                                     <div class="single-slide align-center-left animation-style-01 bg-1">
                                         <div class="slider-progress"></div>
                                         <div class="slider-content">
-                                            <h5>Sale Offer <span>-20% Off</span> This Week</h5>
+                                            <!-- <h5>Sale Offer <span>-20% Off</span> This Week</h5>
                                             <h2>Chamcham Galaxy S9 | S9+</h2>
                                             <h3>Starting at <span>$1209.00</span></h3>
                                             <div class="default-btn slide-btn">
                                                 <a class="links" href="shop-left-sidebar.html">Shopping Now</a>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <!-- Single Slide Area End Here -->
@@ -24,12 +24,12 @@
                                     <div class="single-slide align-center-left animation-style-02 bg-2">
                                         <div class="slider-progress"></div>
                                         <div class="slider-content">
-                                            <h5>Sale Offer <span>Black Friday</span> This Week</h5>
+                                            <!-- <h5>Sale Offer <span>Black Friday</span> This Week</h5>
                                             <h2>Work Desk Surface Studio 2018</h2>
                                             <h3>Starting at <span>$824.00</span></h3>
                                             <div class="default-btn slide-btn">
                                                 <a class="links" href="shop-left-sidebar.html">Shopping Now</a>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <!-- Single Slide Area End Here -->
@@ -37,12 +37,12 @@
                                     <div class="single-slide align-center-left animation-style-01 bg-3">
                                         <div class="slider-progress"></div>
                                         <div class="slider-content">
-                                            <h5>Sale Offer <span>-10% Off</span> This Week</h5>
+                                            <!-- <h5>Sale Offer <span>-10% Off</span> This Week</h5>
                                             <h2>Phantom 4 Pro+ Obsidian</h2>
                                             <h3>Starting at <span>$1849.00</span></h3>
                                             <div class="default-btn slide-btn">
                                                 <a class="links" href="shop-left-sidebar.html">Shopping Now</a>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                     <!-- Single Slide Area End Here -->
@@ -51,7 +51,7 @@
                         </div>
                         <!-- Slider Area End Here -->
                         <!-- Begin Li Banner Area -->
-                        <div class="col-lg-4 col-md-4 text-center pt-sm-30 pt-xs-30">
+                        <div class="col-lg-4 col-md-4 text-center pt-sm-30 pt-xs-30 mt-20">
                             <div class="li-banner">
                                 <a href="#">
                                     <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="">
@@ -191,13 +191,13 @@
                                     <div class="service-item">
                                         <div class="single-banner pb-xs-30">
                                             <a href="#">
-                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
+                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/distribusi.jpg" alt="Li's Static Banner">
                                             </a>
                                         </div><br><br>
 
-                                        <div class="img">
+                                        <!-- <div class="img">
                                             <a href="blog-details-left-sidebar.html"><img class="img-full" src="images/blog-banner/2.jpg" alt=""></a>
-                                        </div>
+                                        </div> -->
                                         <div class="details position-relative" style="height:350px">
                                             <div class="icon">
                                                 <i class="fa fa-star"></i>
@@ -205,10 +205,9 @@
                                             <div>
                                             <h3>Distribution</h3>
 
-                                                <p class="text-justify">Minyak nabati yang didapatkan dari mesocarp Buah
-                                                pohon kelapa sawit dengan kandungan alfa dan beta
-                                                karotenoid yang tinggi. Sebagai bahan baku utama
-                                                pabrik refinery & Biodiesel PT JAR.</p>
+                                                <p class="text-justify">PT.LOKA menyaluran barang dan produksi teknologi baik ke perusahaan
+                                                    maupun ke perorangan di seleuruh Indonesia.
+                                                </p>
                                                 <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Distribution">Read More...</a>
                                             </div>
                                         </div>
@@ -220,13 +219,13 @@
                                     <div class="service-item">
                                         <div class="single-banner pb-xs-30">
                                             <a href="#">
-                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
+                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/sistemintegrated.jpg" alt="Li's Static Banner">
                                             </a>
                                         </div><br><br>
 
-                                        <div class="img">
+                                        <!-- <div class="img">
                                             <a href="blog-details-left-sidebar.html"><img class="img-full" src="images/blog-banner/2.jpg" alt=""></a>
-                                        </div>
+                                        </div> -->
                                         <div class="details position-relative" style="height:350px">
                                             <div class="icon">
                                                 <i class="fa fa-user"></i>
@@ -234,10 +233,9 @@
                                             <div>
                                             <h3>System Integrated</h3>
 
-                                                <p class="text-justify">Minyak nabati yang didapatkan dari mesocarp Buah
-                                                pohon kelapa sawit dengan kandungan alfa dan beta
-                                                karotenoid yang tinggi. Sebagai bahan baku utama
-                                                pabrik refinery & Biodiesel PT JAR.</p>
+                                                <p class="text-justify">PT.LOKA menyediakan sebuah istem integrasi 
+                                                    untuk menghubungkan beberapa sistem komputerisasi 
+                                                    dan software aplikasi, baik secara fisik maupun secara fungsional.</p>
                                                 <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Read More...</a>
                                             </div>
                                         </div>
@@ -249,24 +247,21 @@
                                     <div class="service-item">
                                         <div class="single-banner pb-xs-30">
                                             <a href="#">
-                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/1_1.jpg" alt="Li's Static Banner">
+                                                <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/service.webp" alt="Li's Static Banner">
                                             </a>
                                         </div><br><br>
 
-                                        <div class="img">
+                                        <!-- <div class="img">
                                             <a href="blog-details-left-sidebar.html"><img class="img-full" src="images/blog-banner/2.jpg" alt=""></a>
-                                        </div>
+                                        </div> -->
                                         <div class="details position-relative" style="height:350px">
                                             <div class="icon">
                                                 <i class="fa fa-ship"></i>
                                             </div>
                                             <div>
                                             <h3>Service</h3>
-
-                                                <p class="text-justify">Minyak nabati yang didapatkan dari mesocarp Buah
-                                                pohon kelapa sawit dengan kandungan alfa dan beta
-                                                karotenoid yang tinggi. Sebagai bahan baku utama
-                                                pabrik refinery & Biodiesel PT JAR.</p>
+                                            <p class="text-justify">PT.LOKA telah menyiapkan berbagai pelayanan untuk memberikan kepuasan 
+                                            baik perusahaan maupun perseorangan secara memuaskan</p>
                                                 <a class="read-more" href="<?php echo base_url();?>Lini_Bisnis/Service">Read More...</a>
                                             </div>
                                         </div>

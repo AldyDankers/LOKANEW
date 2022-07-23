@@ -47,18 +47,18 @@
         <link href="<?php echo base_url('/asset/web-loka/');?>vendor/aos/aos.css" rel="stylesheet">
         <link href="<?php echo base_url('/asset/web-loka/');?>vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
         <link href="<?php echo base_url('/asset/web-loka/');?>vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/remixicon/remixicon.css" rel="stylesheet"> -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>vendor/remixicon/remixicon.css" rel="stylesheet">
 
         <!-- Variables CSS Files. Uncomment your preferred color scheme -->
-        <!-- <link href="<?php echo base_url('/asset/web-loka/');?>css/variables.css" rel="stylesheet"> -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>css/variables.css" rel="stylesheet">
         
         <!-- Template Main CSS File -->
-        <!-- <link href="<?php echo base_url('/asset/web-loka/');?>css/main.css" rel="stylesheet"> -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>css/main.css" rel="stylesheet">
 
         <!-- Template Main CSS File -->
-        <!-- <link href="<?php echo base_url('/asset/web-loka/');?>assets/css/style.css" rel="stylesheet"> -->
+        <link href="<?php echo base_url('/asset/web-loka/');?>assets/css/style.css" rel="stylesheet">
         <!-- Modernizr js -->
-        <!-- <script src="<?php echo base_url('/asset/web-loka/');?>js/vendor/modernizr-2.8.3.min.js"></script>      -->
+        <script src="<?php echo base_url('/asset/web-loka/');?>js/vendor/modernizr-2.8.3.min.js"></script>     
 </head>
     
 <body>
@@ -379,6 +379,14 @@
                                    </nav>
                                </div>
                                <!-- Header Bottom Menu Area End Here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mobile-menu-area mobile-menu-area-4 d-lg-none d-xl-none col-12">
+                    <div class="container"> 
+                        <div class="row">
+                            <div class="mobile-menu">
                             </div>
                         </div>
                     </div>

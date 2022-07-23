@@ -2,8 +2,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Profil Perusahaan</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Profil Perusahaan</h2>          
         </div>
         </div>
 
@@ -14,7 +13,7 @@
                         <!-- About Text Start -->
                         <div class="col-lg-6 order-last order-lg-first">
                             <div class="about-text-wrap">
-                                <h2><span>Profil</span>Perusahaan</h2>
+                                <h2><span>Karya</span>Teknologi Indonesia</h2>
                                 <p>We provide the best Beard oile all over the world. We are the worldd best store in indi for Beard Oil. You can buy our product without any hegitation because they truste us and buy our product without any hagitation because they belive and always happy buy our product.</p>
                                 <p>Some of our customer say’s that they trust us and buy our product without any hagitation because they belive us and always happy to buy our product.</p>
                                 <p>We provide the beshat they trusted us and buy our product without any hagitation because they belive us and always happy to buy.</p>

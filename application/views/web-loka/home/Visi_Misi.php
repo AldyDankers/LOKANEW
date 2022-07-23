@@ -7,13 +7,13 @@
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
             <div class="content">
-              <h3><strong>Visi</strong></h3>
+              <h3><strong>Visi</strong>kami</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+              Leading Digital Economy Hub & Enabler
               </p>
             </div>
 
-            <div class="accordion-list">
+            <!-- <div class="accordion-list">
               <ul>
                 <li>
                   <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
@@ -43,7 +43,7 @@
                 </li>
 
               </ul>
-            </div>
+            </div> -->
 
           </div>
 
@@ -61,41 +61,25 @@
             <img src="assets/img/skills.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-            <h3>Misi</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-
+            <h3><strong>Misi</strong>kami</h3>
+            
+            
             <div class="skills-content">
 
               <div class="progress">
-                <span class="skill">HTML <i class="val">100%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <span class="skill">To provide efficient and effective digital transformation, innovative added value, and service excellence to our customers and business partners </span>
+                
               </div>
 
               <div class="progress">
-                <span class="skill">CSS <i class="val">90%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <span class="skill">To maximize our shareholders’ value and build a great place to work</span>
+                
               </div>
 
               <div class="progress">
-                <span class="skill">JavaScript <i class="val">75%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">Photoshop <i class="val">55%</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
+                <span class="skill">To enhance the digital technology advancement in Indonesia</span>
+                
+              </div>             
 
             </div>
 
