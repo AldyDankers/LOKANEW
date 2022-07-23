@@ -33,7 +33,7 @@
                                         <div class="col-md-4 mt-10 mb-20 text-md-right">
                                             <a href="#"> Forgot password?</a>
                                         </div>
-                                        <div class="col-md-12 ml-110">
+                                        <div class="col-md-12">
                                             <button class="register-button mt-0">Login</button>
                                         </div> 
                                     </div><br>	
