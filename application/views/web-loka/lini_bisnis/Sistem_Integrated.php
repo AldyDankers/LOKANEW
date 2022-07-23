@@ -4,7 +4,7 @@
 
         <div class="section-title mb-0">
           <h2>Sistem Integrated</h2>   
-          <p style="color:black ;"> Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>       
+          <p style="color:black ;"> Sistem integrasi (integrated system) merupakan sebuah rangkaian proses untuk menghubungkan beberapa sistem komputerisasi dan software aplikasi, baik secara fisik maupun secara fungsional.</p>       
         </div>
         
         <div class="row">
@@ -12,7 +12,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4><a href="">Data Center</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p>Data center adalah fasilitas fisik yang dipakai sebagai tempat menyimpan sistem komputerisasi dan komponen lainnya yang terkait...</p>
               <a class="read-more" href="<?php echo base_url();?>Sistem_integrated/Data_Center">Read More...</a>
             </div>
           </div>
@@ -21,7 +21,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Sistem Integrated</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>Sistem integrasi (integrated system) merupakan sebuah rangkaian proses untuk menghubungkan beberapa sistem...</p>
               <a class="read-more" href="<?php echo base_url();?>Sistem_integrated/Sistem_Integrated">Read More...</a>
             </div>
           </div>
@@ -30,7 +30,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4><a href="">SAP</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>AP merupakan sebuah aplikasi yang digunakan untuk mengolah data yang digunakan perusahaan dalam rangka mengelola sumber daya yang ...</p>
               <a class="read-more" href="<?php echo base_url();?>Sistem_integrated/SAP">Read More...</a>
             </div>
           </div>          

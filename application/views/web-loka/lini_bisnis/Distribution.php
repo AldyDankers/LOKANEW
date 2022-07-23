@@ -4,31 +4,34 @@
         <div class="row">
           <div class="section-title">
             <h2>Distribution</h2>
-            <p style="color:black ;"> Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p style="color:black ;"> Distribusi juga dapat diartikan kegiatan pemasaran yang berusaha memperlancar dan mempermudah penyampaian barang dan jasa sehingga penggunaannya sesuai dengan yang diperlukan. Distribusi adalah kegiatan yang sangat penting agar produk dari produsen bisa sampai ke tangan konsumen dengan efektif.</p>
           </div>
 
         <div class="row">
           <div class="col-xl-3 col-lg-2 col-md-2 d-flex align-items-stretch ml-150" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Laptop & PC</a></h4>
+              <p>Menyediakan berbagai brand laptop dan PC untuk keperluan kerja hingga menjalankan bisnis</p>
+              <a class="read-more" href="<?php echo base_url();?>Product_Distribusi/Laptop">Read More...</a>
             </div>
           </div>
 
           <div class="col-xl-3 col-lg-2 col-md-2 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Peralatan Jaringan</a></h4>
+              <p>Menyediakan keperluan jaringan dirumah dan dikantor anda</p>
+              <a class="read-more" href="<?php echo base_url();?>Product_Distribusi/Jaringan">Read More...</a>
             </div>
           </div>
           
           <div class="col-xl-3 col-lg-2 col-md-2 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">CCTV & Security System</a></h4>
+              <p>Perketat pengawasan dan keamanan dirumah dan dikantor anda</p>
+              <a class="read-more" href="<?php echo base_url();?>Product_Distribusi/CCTV">Read More...</a>
             </div>
           </div>
         </div>
@@ -36,24 +39,27 @@
           <div class="col-xl-3 col-lg-2 col-md-2 d-flex align-items-stretch ml-150" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Server & Storage</a></h4>
+              <p>Perluas skala perkembangan bisnis anda dengan meningkatkan server dan storage</p>
+              <a class="read-more" href="<?php echo base_url();?>Product_Distribusi/Server">Read More...</a>
             </div>
           </div>
 
           <div class="col-xl-3 col-lg-2 col-md-2 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Website & Mobile App</a></h4>
+              <p>Memberikan jasa pembuatan website dan mobile app, untuk kemajuan bisnis anda di era Digital 4.0</p>
+              <a class="read-more" href="<?php echo base_url();?>Product_Distribusi/Website">Read More...</a>
             </div>
           </div>
           
           <div class="col-xl-3 col-lg-2 col-md-2 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Software & Hardware</a></h4>
+              <p>Lengkapi keperluan bisnis anda dengan software resmi yang menunjang kinerja dan produktivitas bisnis anda</p>
+              <a class="read-more" href="<?php echo base_url();?>Product_Distribusi/Software">Read More...</a>
             </div>
           </div>
         </div>

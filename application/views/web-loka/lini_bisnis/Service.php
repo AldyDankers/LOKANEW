@@ -4,7 +4,12 @@
 
         <div class="section-title mb-0">
           <h2>Services</h2>    
-          <p style="color:black ;"> Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>      
+          <p style="color:black ;"> Service merupakan satu hal yang sangat penting dalam dunia bisnis 
+          karena service merupakan salah satu bentuk penghargaan kepada pelanggan. Service juga menjadi 
+          salah satu pertimbangan seseorang untuk memutuskan membeli produk atau menggunakan jasa dari 
+          sebua perusahaan. Service yang buruk bisa membuat pelanggan lari dan beralih ke perusahaan pesaing. 
+          Mengingat begitu pentingnya service bagi kelangsungan usaha kita, sudah selayaknya bila kita 
+          selalu menjaga service kita kepada pelanggan.</p>      
         </div>
         
         <div class="row">
@@ -12,7 +17,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4><a href="">IT Consulting</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p>Konsultasi kan dengan kami kebutuhan IT dalam bisnis anda...</p>
               <a class="read-more" href="<?php echo base_url();?>Service/IT_Consulting">Read More...</a>
             </div>
           </div>
@@ -21,7 +26,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">IT Design</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>Design structure IT untuk kemajuan dan kemudahan anda dalam berbisnis...</p>
               <a class="read-more" href="<?php echo base_url();?>Service/IT_Design">Read More...</a>
             </div>
           </div>
@@ -30,7 +35,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4><a href="">IT Implementation</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>Implementasikan IT anda dengan produk produk terbaik dari kami...</p>
               <a class="read-more" href="<?php echo base_url();?>Service/IT_Implementation">Read More...</a>
             </div>
           </div>
@@ -39,7 +44,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
               <h4><a href="">Training</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p>Memberikan pelatihan untuk pemuda pemuda dalam mempersiapkan diri di era Digital 4.0...</p>
               <a class="read-more" href="<?php echo base_url();?>Service/Training">Read More...</a>
             </div>
           </div>

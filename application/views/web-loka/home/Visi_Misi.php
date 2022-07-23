@@ -7,7 +7,7 @@
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
             <div class="content">
-              <h3><strong>Visi</strong>kami</h3>
+              <h3><strong>Visi</strong> kami</h3>
               <p>
               Leading Digital Economy Hub & Enabler
               </p>
@@ -47,7 +47,7 @@
 
           </div>
 
-          <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
+          <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("<?php echo base_url('/asset/web-loka/');?>images/banner/visi.jpg");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
         </div>
 
       </div>
@@ -58,10 +58,10 @@
 
         <div class="row">
           <div class="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-            <img src="assets/img/skills.png" class="img-fluid" alt="">
+            <img src="<?php echo base_url('/asset/web-loka/');?>images/banner/misi.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-            <h3><strong>Misi</strong>kami</h3>
+            <h3><strong>Misi</strong> kami</h3>
             
             
             <div class="skills-content">
