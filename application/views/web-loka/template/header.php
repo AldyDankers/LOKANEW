@@ -323,17 +323,19 @@
                                                     </li>
                                                </ul>
                                            </li> -->
-                                           <li class="dropdown-holder"><a href="#">Product Distribusi</a>
+                                           <li class="dropdown-holder"><a>Product Distribusi</a>
                                                <ul class="hb-dropdown">
-                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Distribution">Laptop & PC</a>
+                                                   <li><a href="<?php echo base_url();?>Product_Distribusi/Laptop">Laptop & PC</a>
                                                    </li>
-                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Peralatan Jaringan</a>
+                                                   <li><a href="<?php echo base_url();?>Product_Distribusi/Jaringan">Peralatan Jaringan</a>
                                                    </li>
-                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Service">CCTV & Security System</a>
+                                                   <li><a href="<?php echo base_url();?>Product_Distribusi/CCTV">CCTV & Security System</a>
                                                    </li>
-                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Sistem_Integrated">Server & Storage</a>
+                                                   <li><a href="<?php echo base_url();?>Product_Distribusi/Server">Server & Storage</a>
                                                    </li>
-                                                   <li><a href="<?php echo base_url();?>Lini_Bisnis/Service">Website & Mobile App</a>
+                                                   <li><a href="<?php echo base_url();?>Product_Distribusi/Website">Website & Mobile App</a>
+                                                   </li>
+                                                   <li><a href="<?php echo base_url();?>Product_Distribusi/Software">Software & Hardware</a>
                                                    </li>
                                                </ul>
                                            </li>
