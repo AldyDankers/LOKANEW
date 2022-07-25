@@ -70,107 +70,112 @@
             
             <!-- Static Top Area End Here -->
             <div class="li-static-banner mt-50 pt-20 pt-sm-30 text-center">
-                <div class="container">
-                    <div class="row align-items-center justify-content-between">                      
-                        <div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
+                <div class="container text-center">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                            <div class="li-shipping-inner-box">
+                                <div class="shipping-icon">
+                                    <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-01.png" alt="Li's Static Banner">
+                                </div>
+                                <div class="shipping-text">
+                                    <h2>PC</h2>                                            
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
-                            </div>
-                        </div><div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
-                            </div>
-                        </div><div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
-                            </div>
-                        </div><div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
-                            </div>
-                        </div><div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
-                            </div>
-                        </div><div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
+                        <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                            <div class="li-shipping-inner-box">
+                                <div class="shipping-icon">
+                                    <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-02.png" alt="Li's Static Banner">
+                                </div>
+                                <div class="shipping-text">
+                                    <h2>Mobile</h2>                                            
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
+                        <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                            <div class="li-shipping-inner-box">
+                                <div class="shipping-icon">
+                                <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-03.png" alt="Li's Static Banner">
+                                </div>
+                                <div class="shipping-text">
+                                    <h2>Security</h2>                                            
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
+                        <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                            <div class="li-shipping-inner-box">
+                                <div class="shipping-icon">
+                                <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-04.png" alt="Li's Static Banner">
+                                </div>
+                                <div class="shipping-text">
+                                    <h2>Hardware</h2>                                            
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-1 col-md-1 text-center">
-                            <div class="single-banner pb-xs-30">
-                                <ul class="hm-menu">
-                                    <a href="#">
-                                        <img src="<?php echo base_url('/asset/web-loka/');?>images/x.png" alt="Li's Static Banner">
-                                        <p>Contoh</p>
-                                    </a>
-                                </ul>
+                        <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                        <div class="li-shipping-inner-box">
+                            <div class="shipping-icon">
+                            <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-05.png" alt="Li's Static Banner">
+                            </div>
+                            <div class="shipping-text">
+                                <h2>Software</h2>                                            
                             </div>
                         </div>
-                      
                     </div>
+                    <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                        <div class="li-shipping-inner-box">
+                            <div class="shipping-icon">
+                                <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-06.png" alt="Li's Static Banner">
+                            </div>
+                            <div class="shipping-text">
+                                <h2>Jaringan</h2>                                            
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                        <div class="li-shipping-inner-box">
+                            <div class="shipping-icon">
+                            <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-07.png" alt="Li's Static Banner">
+                            </div>
+                            <div class="shipping-text">
+                                <h2>Web App</h2>                                            
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                        <div class="li-shipping-inner-box">
+                            <div class="shipping-icon">
+                            <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-08.png" alt="Li's Static Banner">
+                            </div>
+                            <div class="shipping-text">
+                                <h2>CCTV</h2>                                            
+                            </div>
+                        </div>
+                    </div>  
+                    <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                        <div class="li-shipping-inner-box">
+                            <div class="shipping-icon">
+                                <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-09.png" alt="Li's Static Banner">
+                            </div>
+                            <div class="shipping-text">
+                                <h2>Laptop</h2>                                            
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1 col-md-6 col-sm-6 pb-xs-30">
+                        <div class="li-shipping-inner-box">
+                            <div class="shipping-icon">
+                                <img src="<?php echo base_url('/asset/web-loka/');?>images/icon/icon-010.png" alt="Li's Static Banner">
+                            </div>
+                            <div class="shipping-text">
+                                <h2>Server</h2>                                            
+                            </div>
+                        </div>
+                    </div> 
+                </div>        
                 </div>
             </div>
+            
             
            
   <!-- ======= Services Section ======= -->

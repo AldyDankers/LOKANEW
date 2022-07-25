@@ -1,5 +1,5 @@
 <!-- ======= Why Us Section ======= -->
-<section id="why-us" class="why-us section-bg">
+<!-- <section id="why-us" class="why-us section-bg">
       <div class="container-fluid" data-aos="fade-up">
 
         <div class="row">
@@ -11,7 +11,7 @@
               <p>
               Leading Digital Economy Hub & Enabler
               </p>
-            </div>
+            </div> -->
 
             <!-- <div class="accordion-list">
               <ul>
@@ -45,15 +45,15 @@
               </ul>
             </div> -->
 
-          </div>
+          <!-- </div>
 
           <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("<?php echo base_url('/asset/web-loka/');?>images/banner/visi.jpg");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
+    </section> -->
 <!-- ======= Skills Section ======= -->
-<section id="skills" class="skills">
+<!-- <section id="skills" class="skills">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
@@ -87,7 +87,8 @@
         </div>
 
       </div>
-    </section><!-- End Skills Section -->
+    </section> -->
+    <!-- End Skills Section -->
 
 <!-- <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
@@ -122,3 +123,62 @@
                 </div>
             </div>
 </section> -->
+<!-- Site Content -->
+<div class="site-content">
+        
+
+        <section class="section-page-header" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/product/large-size/13.jpg')" >
+            <div class="container">
+                <h1 class="page-title">Vision and Mission</h1>
+                <p class="page-desc">In running the business, the company adheres to a set of principles. These principles are the core foundation for the management and employee to build our company’s reputation and develop business strategy.
+    </p>
+            </div>
+        </section>
+    
+    <section class="section-single-quote mb-80">
+        <div class="section-single-quote__inner" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/product/large-size/13.jpg');">
+            <div class="container">
+                <div class="quote-content">
+                    <div class="quote-icon">
+    
+    
+    
+        <img src="<?php echo base_url('/asset/web-loka/');?>images/product/large-size/13.jpg" alt="icon-quote">
+    
+    </div>
+                    <div class="quote-title"></div>
+                    <div class="quote-desc"><p><strong>&nbsp;</strong></p>
+    <p><strong>Our&nbsp;Vision</strong></p>
+    <p><span>Leading Digital Economy Hub &amp; Enabler</span></p>
+    <p><strong>&nbsp;</strong></p>
+    <p><strong>Our Mission</strong></p>
+    <p style="margin-bottom: 0in;">. To provide efficient and effective digital transformation, innovative added value, and service excellence to our customers and business partners</p>
+    <p style="margin-bottom: 0in;">. To maximize our shareholders&rsquo; value and build a great place to work</p>
+    <p style="margin-bottom: 0in;">. To enhance the digital technology advancement in Indonesia</p></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+    
+    
+    
+    <section class="section-content-overlay2">
+        <div class="section-content-overlay2__inner">
+            <div class="section-content-overlay2__left pdt-200 pdb-100" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/product/large-size/13.jpg');"></div>
+            <div class="section-content-overlay2__right">
+                <h2 class="section-title bdb color-white maxw-300">Our Values</h2>
+                <div class="fz-17">
+                    <strong>Integrity</strong><br />
+    is consistency in action in line with moral, ethical, and legal norms and commitment to always uphold and maintain it<br />
+    <br />
+    <strong>Professionalism</strong><br />
+    is an attitude, behavior and actions that demonstrate superior knowledge, competencies and skills continuously developed to cope with challenges and bring success to the company<br />
+    <br />
+    <strong>Enterpreneurship</strong><br />
+    is a fiery enterprising spirit and passion to keep making improvement, able to turn ideas into reality, dare to take bold initiative, undaunted by failure and able to manage a harmonious relationship with stakeholders.
+                </div>
+            </div>
+        </div>
+    </section>
