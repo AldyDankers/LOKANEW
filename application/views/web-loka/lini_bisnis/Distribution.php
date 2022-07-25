@@ -1,3 +1,10 @@
+<section class="section-page-header" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg')" >
+        <div class="container">
+            <h1 class="page-title">DISTRIBUTION</h1>
+            <p class="page-desc">&nbsp;subsidiary of the publicly listed PT Metrodata Electronics, Tbk</p>
+        </div>
+    </section>
+
 <!-- ======= Services Section ======= -->
 <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
@@ -67,3 +74,56 @@
 
       </div>
     </section><!-- End Services Section -->
+    <!-- <div class="section-separator" >
+    <div class="container">
+            <div class="section-separator__inner"></div>
+    </div>
+</div> -->
+    <!-- <section class="solution-sub-cats pdb-60" >
+      <div class="sub-cats-slider">
+            <div class="sub-cats-item list-thumb-transparent">
+                        <div class="list-thumb-transparent__bg" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg');"></div>
+                        <a href="/services/hybrid-it-infrastructure-services/back-up-and-recovery" class="list-thumb-transparent__content">
+                            <div class="list-thumb-transparent__title">
+                                Back-up and Recovery
+                            </div>
+                            <div class="list-thumb-transparent__desc">
+                                Your data is your business &ndash; protect it
+                            </div>
+                        </a>
+            </div>
+            <div class="sub-cats-item list-thumb-transparent">
+                        <div class="list-thumb-transparent__bg" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg');"></div>
+                        <a href="/services/hybrid-it-infrastructure-services/infrastructure-automation" class="list-thumb-transparent__content">
+                            <div class="list-thumb-transparent__title">
+                                Infrastructure Automation
+                            </div>
+                            <div class="list-thumb-transparent__desc">
+                                Automation opens the door for developers to rapidly provision new environments.
+                            </div>
+                        </a>
+            </div>
+            <div class="sub-cats-item list-thumb-transparent">
+                        <div class="list-thumb-transparent__bg" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg');"></div>
+                        <a href="/services/hybrid-it-infrastructure-services/virtualization" class="list-thumb-transparent__content">
+                            <div class="list-thumb-transparent__title">
+                                Virtualization
+                            </div>
+                            <div class="list-thumb-transparent__desc">
+                                With the advent of virtualization, IT organizations have gone from managing hundreds of servers to managing tens of thousands across both on-premises and off-premises environments.
+                            </div>
+                        </a>
+            </div>
+            <div class="sub-cats-item list-thumb-transparent">
+                        <div class="list-thumb-transparent__bg" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg');"></div>
+                        <a href="/services/hybrid-it-infrastructure-services/smart-operation" class="list-thumb-transparent__content">
+                            <div class="list-thumb-transparent__title">
+                                Smart Operation
+                            </div>
+                            <div class="list-thumb-transparent__desc">
+                                <span>Enhanced Visibility to your IT Environment</span>
+                            </div>
+                        </a>
+            </div>
+    </div>
+</section> -->

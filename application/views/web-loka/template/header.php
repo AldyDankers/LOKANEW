@@ -58,7 +58,16 @@
         <!-- Template Main CSS File -->
         <link href="<?php echo base_url('/asset/web-loka/');?>assets/css/style.css" rel="stylesheet">
         <!-- Modernizr js -->
-        <script src="<?php echo base_url('/asset/web-loka/');?>js/vendor/modernizr-2.8.3.min.js"></script>     
+        <script src="<?php echo base_url('/asset/web-loka/');?>js/vendor/modernizr-2.8.3.min.js"></script> 
+        
+        <!--BARU-->
+        <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>assets/css/css_2/style.css">
+        <!-- <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>assets/css/css_2/ionicons.min.css">
+        <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>assets/css/css_2/bootstrap.min.css">
+        <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>assets/css/css_2/magnific-popup.css">
+        <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>assets/css/css_2/slick.css">
+        <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>assets/css/css_2/perfect-scrollbar.css">
+        <link rel="stylesheet" href="<?php echo base_url('/asset/web-loka/');?>assets/css/css_2/style.css"> -->
 </head>
     
 <body>
@@ -251,7 +260,7 @@
                 <div class="header-bottom header-sticky d-none d-lg-block d-xl-block mb-0">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-12 ml-40">
+                            <div class="col-lg-12 ml-50">
                                <!-- Begin Header Bottom Menu Area -->
                                <div class="hb-menu">
                                    <nav>
@@ -363,20 +372,7 @@
                                             </li>
                                             <li><a href="<?php echo base_url();?>portofolio">Portofolio</a></li>
                                             <li><a href="<?php echo base_url();?>contact">Contact</a></li>
-                                            <li><a href="<?php echo base_url();?>news">News</a></li>
-                                        <!-- <li class="megamenu-holder"><a href="<?php echo base_url();?>login">Login</a>
-                                               <ul class="megamenu hb-megamenu">
-                                                   <li><a href="#">Login Account</a>
-                                                       <ul>
-                                                           <li><a href="#">My Account</a></li>
-                                                           <li><a href="#">Checkout</a></li>
-                                                           <li><a href="#">Compare</a></li>
-                                                           <li><a href="#">Wishlist</a></li>
-                                                           <li><a href="#">Shopping Cart</a></li>
-                                                       </ul>
-                                                   </li>
-                                               </ul>
-                                           </li> -->
+                                            <li><a href="<?php echo base_url();?>news">News</a></li>                                        
                                        </ul>
                                    </nav>
                                </div>

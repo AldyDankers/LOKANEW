@@ -10,24 +10,10 @@
 <div class="team-area">
                 <div class="container" data-aos="fade-up">
                    
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6 col-sm-6">
-                            <div class="team-member mb-60 mb-sm-30 mb-xs-30">
-                                <div class="team-thumb">
-                                    <img src="<?php echo base_url('/asset/web-loka/');?>images/team/1.png" alt="Our Team Member">
-                                </div>
-                                <div class="team-content text-center">
-                                    <h3>Catur</h3>
-                                    <p>Director</p>
-                                    <a href="#">info@example.com</a>
-                                    <div class="team-social">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-linkedin"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="row">                    
+                        <div class="col-lg-3 col-md-6 col-sm-6">       
+                            <h2 class="section-title bdb color-dark blue text-left">Executive Profile</h2>
+                            <p>Our executives have decades of experience to help you transforming businesses, unlocking the new opportunity and driving the efficiency.</p>
                         </div> <!-- end single team member -->
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="team-member mb-60 mb-sm-30 mb-xs-30">

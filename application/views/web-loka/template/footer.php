@@ -392,6 +392,16 @@
         <!-- Template Main JS File -->
         <script src="https://ptjar.co.id/assets/HeroBiz-pro/assets/js/main.js"></script>
        
+        <!-- Baru -->
+        <!-- <script src="<?php echo base_url('/asset/web-loka/');?>/assets/js/js_2/tps.feature.mediafeature.components.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>/assets/js/js_2/jquery.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>/assets/js/js_2/jquery.migrate.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>/assets/js/js_2/vendors.js"></script>
+        <script src="<?php echo base_url('/asset/web-loka/');?>/assets/js/js_2/main.js"></script> -->
+	
+	    <!-- Start of mii-zendesk Zendesk Widget script -->
+	    <!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=0e06d2f4-c7f9-4896-9faf-01b5f1d8d490"> </script> -->
+
     </body>
 
 <!-- index-431:47-->
