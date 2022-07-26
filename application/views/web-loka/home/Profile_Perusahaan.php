@@ -1,7 +1,7 @@
 <section class="section-page-header" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg')" >
         <div class="container">
             <h1 class="page-title">PT LOKA INDONESIA</h1>
-            <p class="page-desc">&nbsp;subsidiary of the publicly listed PT Metrodata Electronics, Tbk</p>
+            <!-- <p class="page-desc">&nbsp;subsidiary of the publicly listed PT Metrodata Electronics, Tbk</p> -->
         </div>
     </section>
 
@@ -50,9 +50,9 @@
 
                 <p>Now is the age of the customer: customers have more influence, information, and choice than ever before. To survive and thrive in this new era, businesses must become digital so they can deliver a superior service. New competitors are disrupting entire markets, using digital technology to provide a better customer experience through fast services and seamlessly multi-channel engagement. Are you ready for People &amp; Business Transformation? Do you have a Digital Business Platform strategy? We are here to help Digital Transforming your business.<br />
 <br />
-PT. Mitra Integrasi Informatika (MII) was founded on March 1, 1996 as a subsidiary of the publicly listed PT Metrodata Electronics, Tbk. Widely recognized for its consistent to both Enterprise and Corporate segments, MII&rsquo;s ICT service offerings range focus on Digital Transformation, from Infrastructure to ICT Managed Services, from System Integration to full-scale Enterprise Resource Planning (ERP) implementations, and from ICT Management to Consulting services based on industry Best Practices.<br />
+PT. Loka Teknologi Indonesia (Loka) was founded on March 1, 1996 as a subsidiary of the publicly listed . Widely recognized for its consistent to both Enterprise and Corporate segments, ICT service offerings range focus on Digital Transformation, from Infrastructure to ICT Managed Services, from System Integration to full-scale Enterprise Resource Planning (ERP) implementations, and from ICT Management to Consulting services based on industry Best Practices.<br />
 <br />
-Operating independently from its holding company, MII has teams of young and dynamic professionals with regular refreshed necessary knowledge and skill sets. It has also build strategic alliances with a number of national, regional and global partners and technology partners that have Digital Transformation vision, to strengthen its offerings.</p>
+Operating independently from its holding company, Loka has teams of young and dynamic professionals with regular refreshed necessary knowledge and skill sets. It has also build strategic alliances with a number of national, regional and global partners and technology partners that have Digital Transformation vision, to strengthen its offerings.</p>
             </div>
         </div>
         <div class="section-about-mii__right" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg');"></div>

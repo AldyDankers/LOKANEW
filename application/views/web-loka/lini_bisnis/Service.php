@@ -1,7 +1,7 @@
 <section class="section-page-header" style="background-image: url('<?php echo base_url('/asset/web-loka/');?>images/banner/profil.jpg')" >
         <div class="container">
             <h1 class="page-title">SERVICE</h1>
-            <p class="page-desc">&nbsp;subsidiary of the publicly listed PT Metrodata Electronics, Tbk</p>
+            <!-- <p class="page-desc">&nbsp;subsidiary of the publicly listed PT Metrodata Electronics, Tbk</p> -->
         </div>
     </section>
 

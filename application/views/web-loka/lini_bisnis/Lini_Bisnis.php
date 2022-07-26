@@ -40,7 +40,7 @@
           <div class="service-item position-relative">
             <div class="icon d-flex justify-content-center"><i class="fa fa-ship"></i></div>
             <h4>Distribution</h4>
-            <p class="text-justify">PT. Jhonlin Agro Raya selalu
+            <p class="text-justify">PT. Loka selalu
               mengedapankan
               pengembangan berbasiskan
               penelitian yang mendalam, untuk
